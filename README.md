@@ -8,6 +8,7 @@
 ## [Baekjoon Online Judge](https://www.acmicpc.net/)
 
 - [1193 분수찾기](https://github.com/kisagge/1day1CodingTest/blob/main/BOJ/1193.py)
+- [1271 엄청난 부자2](BOJ/1271.py))
 
 ## [Samsung SW Expert Academy](https://swexpertacademy.com/main/main.do)
 
