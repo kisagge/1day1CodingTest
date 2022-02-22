@@ -13,3 +13,5 @@
 ## [Samsung SW Expert Academy](https://swexpertacademy.com/main/main.do)
 
 ## [Programmers](https://programmers.co.kr/learn/challenges?tab=all_challenges)
+
+- [2022 Kakao Blind Recruitment - 신고 결과 받기](Programmers/2022KakaoBlindRecruitment.py)
