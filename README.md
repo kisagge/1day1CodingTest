@@ -6,6 +6,6 @@
 
 - [1193 분수찾기](https://github.com/kisagge/1day1CodingTest/blob/main/BOJ/1193.py)
 
-## Samsung SW Expert Academy
+## [Samsung SW Expert Academy](https://swexpertacademy.com/main/main.do)
 
-## Programmers
+## [Programmers](https://programmers.co.kr/learn/challenges?tab=all_challenges)
