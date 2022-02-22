@@ -12,6 +12,8 @@
 
 ## [Samsung SW Expert Academy](https://swexpertacademy.com/main/main.do)
 
+- [1859 백만 장자 프로젝트](Samsung%20SW%20Expert%20Academy/1859.py)
+
 ## [Programmers](https://programmers.co.kr/learn/challenges?tab=all_challenges)
 
 - [2022 Kakao Blind Recruitment - 신고 결과 받기](Programmers/2022KakaoBlindRecruitment.py)
