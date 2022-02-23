@@ -22,4 +22,5 @@
 
 ## [Programmers](https://programmers.co.kr/learn/challenges?tab=all_challenges)
 
+- [2021 Kakao Blind Recruitment - 신규 아이디 추천](Programmers/2021KakaoBlindRecruitment.py)
 - [2022 Kakao Blind Recruitment - 신고 결과 받기](Programmers/2022KakaoBlindRecruitment.py)
