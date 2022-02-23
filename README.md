@@ -12,6 +12,8 @@
 - [1550 16진수](BOJ/1550.py)
 - [2475 검증수](BOJ/2475.py)
 - [2845 파티가 끝나고 난 뒤](BOJ/2845.py)
+- [3003 킹, 퀸, 룩, 비숍, 나이트, 폰](BOJ/3003.py)
+- [3046 R2](BOJ/3046.py)
 
 ## [Samsung SW Expert Academy](https://swexpertacademy.com/main/main.do)
 
