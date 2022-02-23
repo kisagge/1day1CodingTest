@@ -10,6 +10,7 @@
 - [1193 분수찾기](BOJ/1193.py)
 - [1271 엄청난 부자2](BOJ/1271.py)
 - [1550 16진수](BOJ/1550.py)
+- [2845 파티가 끝나고 난 뒤](BOJ/2845.py)
 
 ## [Samsung SW Expert Academy](https://swexpertacademy.com/main/main.do)
 
