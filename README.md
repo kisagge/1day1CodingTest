@@ -7,6 +7,7 @@
 
 ## [Baekjoon Online Judge](https://www.acmicpc.net/)
 
+- [1011 Fly me to the Alpha Centauri](BOJ/1011.py)
 - [1193 분수찾기](BOJ/1193.py)
 - [1271 엄청난 부자2](BOJ/1271.py)
 - [1297 TV크기](BOJ/1297.py)
@@ -14,6 +15,7 @@
 - [2420 사파리월드](BOJ/2420.py)
 - [2475 검증수](BOJ/2475.py)
 - [2480 주사위 세개](BOJ/2480.py)
+- [2525 오븐시계](BOJ/2525.py)
 - [2845 파티가 끝나고 난 뒤](BOJ/2845.py)
 - [3003 킹, 퀸, 룩, 비숍, 나이트, 폰](BOJ/3003.py)
 - [3046 R2](BOJ/3046.py)
