@@ -24,6 +24,7 @@
 - [5532 방학 숙제](BOJ/5001~6000/5532.py)
 - [5543 상근날드](BOJ/5001~6000/5543.py)
 - [8370 Plane](BOJ/8001~9000/8370.py)
+- [13597 Tri-du](BOJ/13000~14000/13597.py)
 
 ## [Samsung SW Expert Academy](https://swexpertacademy.com/main/main.do)
 
