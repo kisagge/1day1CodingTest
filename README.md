@@ -14,6 +14,8 @@
 - [2845 파티가 끝나고 난 뒤](BOJ/2845.py)
 - [3003 킹, 퀸, 룩, 비숍, 나이트, 폰](BOJ/3003.py)
 - [3046 R2](BOJ/3046.py)
+- [5522 카드게임](BOJ/5522.py)
+- [8370 Plane](BOJ/8370.py)
 
 ## [Samsung SW Expert Academy](https://swexpertacademy.com/main/main.do)
 
