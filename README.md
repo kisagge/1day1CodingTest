@@ -7,6 +7,7 @@
 
 ## [Baekjoon Online Judge](https://www.acmicpc.net/)
 
+- [1010 다리 놓기](BOJ/1001~2000/1010.py)
 - [1011 Fly me to the Alpha Centauri](BOJ/1001~2000/1011.py)
 - [1193 분수찾기](BOJ/1001~2000/1193.py)
 - [1271 엄청난 부자2](BOJ/1001~2000/1271.py)
